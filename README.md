@@ -6,3 +6,7 @@ Learnings: I learned how to utilise the Swing library, as well as practiced writ
 
 Some explanation of the files: Startmenu.java is the initial window that opens up when the code is executed. Gamemenu.java is the class I used to format Panels.java which is the layout for the game board. ComputerMoves.java and PlayerMoves.java take care of the movements of the computer and the player. The WinCondition file contains the winning, losing, and tying conditions.
 
+Some images of the app:
+![TicTacToe-1](https://user-images.githubusercontent.com/87648450/132253479-d4989ef7-fe90-4e90-bfd4-bb4dd9aa01af.PNG)
+
+![TicTacToe-2](https://user-images.githubusercontent.com/87648450/132253480-d86f68ee-7592-4f68-b3a1-31cd02d2a9d6.PNG)
