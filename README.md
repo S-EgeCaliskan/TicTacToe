@@ -1,3 +1,5 @@
+# TicTacToe
+
 Developed by Salim Ege Caliskan.
 
 This is a Tic-Tac-Toe game that was made using Swing library with Java (JDK 11). It's my first application made with Java, and first application that implements a GUI. You are playing against a UI that is programmed to make random moves, so it is fun with a chance for the player to actually win, instead of a perfectly programmed algorithm that can never lose. In a future update, I am hoping to revise the code and make a new version with an algorithm that renders it impossible for the computer to lose. It is an ugly looking code, but it is a working code and I am proud of it.
